@@ -26,6 +26,8 @@ body {
 
 .btn:hover{
     box-shadow: rgba(2, 206, 30, 0.19) 0px 10px 20px, rgba(2, 206, 30, 0.23) 0px 6px 6px;
+
+    transition: box-shadow .5s ease-in-out;
 }
 
 .btn span {
